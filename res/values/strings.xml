@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">fblogin</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="app_id">230850917125026</string>
+    <string name="app_secret">94cc36c1b7c64db232cdd6415688d083</string>
+    <string name="update_status">Update status</string>
+    <string name="post_image">Post image</string>
+
+</resources>
